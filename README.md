@@ -16,10 +16,8 @@ Flappy Bird is a side-scrolling game where the player controls a bird, attemptin
 ## Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.png)
-*Caption: Gameplay screenshot of Flappy Bird in action.*
 
 ![Screenshot 2](screenshots/screenshot2.png)
-*Caption: Game over screen with a restart button for replaying.*
 
 ## Installation
 
