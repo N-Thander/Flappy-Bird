@@ -25,7 +25,7 @@ To run Flappy Bird on your local machine, follow these steps:
 
 1. Install Python on your computer if you haven't already.
 2. Install Pygame by running `pip install pygame` in your terminal or command prompt.
-3. Clone this repository to your local machine: `git clone https://github.com/yourusername/FlappyBird.git`.
+3. Clone this repository to your local machine: `git clone https://github.com/N-Thander/FlappyBird.git`.
 4. Navigate to the project directory: `cd FlappyBird`.
 5. Run the game: `python flappy_bird.py`.
 
